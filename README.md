@@ -21,7 +21,7 @@ By contributing you acknowledge that you have read and understood the [contribut
 
 ### Requirements
 
-1. Install [Unity Version 2019.4.28f1](https://unity3d.com/de/unity/qa/lts-releases)
+1. Install [Unity Version 2019.4.29f1](https://unity3d.com/de/unity/qa/lts-releases)
 2. Install [git](https://git-scm.com/) (command line) or [GitKraken](https://www.gitkraken.com/) (GUI) for interaction with GitHub
 
 ### Clone Repository
